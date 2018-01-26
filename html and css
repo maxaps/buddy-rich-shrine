@@ -1,0 +1,68 @@
+<div>
+<h1 class="text-center">
+<p1 class="background-color-title">Buddy Rich</p1>
+  </h1>
+  
+  <div class="row">
+    <div class="col-sx-4"><img class="buddy-snare-pic container-fluid"src="https://www.ultimatedrumming.com/here/wp-content/uploads/2016/06/Buddy_Rich_Drummer.jpg"
+     alt="Failed to load img https://www.ultimatedrumming.com/here/wp-content/uploads/2016/06/Buddy_Rich_Drummer.jpg">
+    </div>
+    <div class="col-sx-4">
+      <ul1>Influences
+        <li>Gene Krupa</li>
+        <li>Jo Jones</li>
+        <li>Chick Webb</li>
+        <li>Ray McKinley</li>
+        <li>Ray Bauduc</li>
+        <li>Sid Catlett</li>
+      </ul1>
+    </div>
+    <div class="col-sx-4"><p4>Videos</p4>
+    </div>
+  </div>
+
+
+<p2 class="learn-more">If you would like to learn more about Buddy Rich, please<a href="https://en.wikipedia.org/wiki/Buddy_Rich"> click here </a>to visit the Wikipedia page about him!</p2>
+</div>
+
+body {
+  background-color: black;
+}
+
+p1 {color: silver;
+    font-family: Lobster, Monospace;
+    font-size: 90px;
+  
+}
+
+p3 {
+  font-size: 45px;
+}
+
+p4 {
+  font-size: 45px
+}
+
+.learn-more {
+  color: green;
+  font-family: Lobster;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.buddy-snare-pic {
+  
+}
+
+.background-color-title {
+  background-color: black;
+}
+
+h1 {
+  
+}
+
+ul1 {
+  font-size: 45px
+}
